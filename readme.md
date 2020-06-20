@@ -2,7 +2,6 @@
 
 > Share your code and collaborate with developers around the world.
 
-
 ## Why it's awesome
 
 We're so happy you're here. We founded Codeplayground because we wanted to create a trustworthy and inspiring place for you to find everything you need to create and store code snippet in a secure and confortable way.
@@ -12,12 +11,10 @@ We hope you'll get lost in our boards with awesome codes and super profiles, and
 --
 [CJ Patoilo](https://twitter.com/cjpatoilo) and the Codeplayground team
 
-
 ## Contributing
 
-Want to contribute? Follow these [recommendations](.github/contributing.md).
-
+Want to contribute? Follow these [recommendations](https://github.com/codeplayground/codeplayground/contribute).
 
 ## License
 
-Designed with ♥ by [CJ Patoilo](https://twitter.com/cjpatoilo). Licensed under the [MIT License](license).
+Designed with ♥ by [CJ Patoilo](https://twitter.com/cjpatoilo). Licensed under the [MIT License](https://cjpatoilo.com/license).
